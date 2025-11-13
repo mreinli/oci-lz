@@ -39,7 +39,7 @@ compartments_configuration:
           description: cmp-core-nonprod
         CMP-CORE-PROD-KEY:
           name: cmp-core-prod
-          description: cmp-core-prod
+          description: cmp-core-prod-
 groups_configuration:
   groups: {}
 dynamic_groups_configuration:
